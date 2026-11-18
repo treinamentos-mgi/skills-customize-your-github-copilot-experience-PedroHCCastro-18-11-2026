@@ -1,11 +1,11 @@
 
 # 📘 Assignment: Hangman Game
 
-## 🎯 Objective / Objetivo
+## 🎯 Objective
 
 Build a Hangman game in Python to practice string manipulation, loops, conditionals, and user input.
 
-## 📝 Tasks / Tarefas
+## 📝 Tasks
 
 ### 🛠️ Build the Word-Guessing Game
 
